@@ -6,7 +6,7 @@ permalink: /docs/spring-mvc-sample/
 excerpt: "如何利用springmvc模式迅速创建微服务."
 last_modified_at: 2017-06-06T10:01:43-04:00
 redirect_from:
-  - /theme-setup/
+  - /theme-setup/aedada
 ---
 
 如何使用Spring MVC开发模式进行业务开发。
@@ -16,7 +16,37 @@ redirect_from:
 ## 前提
 以下软件需要被安装:
 
+zdfzfaf
 
+
+fa
+df
+ad
+f
+adf
+ad
+f
+a
+dfa
+
+d
+a
+d
+
+asd
+as
+
+d
+a
+s
+das
+d
+as
+d
+as
+
+d
+asd
 1. JDK 1.8
 2. Maven 3.5.0 
 
