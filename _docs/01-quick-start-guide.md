@@ -8,7 +8,22 @@ last_modified_at: 2017-06-06T10:01:43-04:00
 ---
 
 这个快速入门指南会帮助您迅速进行微服务业务开发。JavaChassis支持三种开发模式，此处通过POJO开发模式进行示例讲解，关于支持的Spring MVC/JAX RS两种开发模式，请参考详细的[用户手册]({{ site.url }}{{ site.baseurl }}/docs/user-guide/)。
+aedaad
+a
+ed
+a
+e
+da
+e
+d
+ae
+d
 
+ae
+dae
+d
+
+aedeaaeedadae
 {% include toc %}
 
 ## 前提
