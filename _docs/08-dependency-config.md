@@ -17,7 +17,17 @@ redirect_from:
 
 使用dependencyManagement来进行依赖包版本的管理，通过修改version字段来使用相应版本的依赖包 。
 
-依赖包中包括三类：transport、provider、handler，分别用于引入网络通道、开发模式、治理链依赖包。其中transport和provider为必选，服务端需要增加一个loadbalance handler必选项。在Pom文件中增加如下内容：
+依赖包中包括三类arafa
+adf
+ad
+ad
+a
+da
+dad
+
+ad
+ad
+ad：transport、provider、handler，分别用于引入网络通道、开发模式、治理链依赖包。其中transport和provider为必选，服务端需要增加一个loadbalance handler必选项。在Pom文件中增加如下内容：
 
 ```xml
 <dependencyManagement>
