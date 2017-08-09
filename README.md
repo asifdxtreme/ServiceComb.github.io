@@ -8,7 +8,26 @@ The Web Site of ServiceComb which is based on [Minimal Mistakes Jekyll Theme](ht
 
    `gem install jekyll bundler`
 
-*  Clone the site files
+*  Clone the site filesASAsas
+s
+A
+S
+as
+A
+S
+as
+AS
+a
+s
+AS
+a
+s
+AS
+
+a
+s
+AS
+asA
 
    `git clone git@github.com:ServiceComb/ServiceComb.github.io.git`
 
